@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Agent_Template.md",
+                "file": "Agents/SIGMA-SYNC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agent_Template"
+              "title": "SIGMA-SYNC"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Agent_Template.md",
+                "file": "Agents/SIGMA-SYNC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Agent_Template"
+              "title": "Backlinks for SIGMA-SYNC"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Agent_Template.md",
+                "file": "Agents/SIGMA-SYNC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Agent_Template"
+              "title": "Outgoing links from SIGMA-SYNC"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Agent_Template.md",
+                "file": "Agents/SIGMA-SYNC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Agent_Template"
+              "title": "Outline of SIGMA-SYNC"
             }
           }
         ]
@@ -189,21 +189,39 @@
   },
   "active": "939831a0cf6608c6",
   "lastOpenFiles": [
-    "README.md",
-    "Templates/Agent_Template.md",
-    "Agents/ARCHIVARIX.md",
-    "Welcome.md",
+    "Agents/GRAMWIZ.md",
+    "Agents/SIGMA-SYNC.md",
+    "Agents/ECHO-ONE.md",
+    "Agents/LINKFORCE.md",
+    "Agents/REAPER.md",
+    "Agents/BLACKBIRD.md",
+    "Agents/SHIELDWALL.md",
+    "Agents/ORACLE-ANALYTICS.md",
+    "Agents/GHOSTWIRE-SIM.md",
+    "Agents/PATCH-MASTER.md",
+    "Agents/VENOM-SIM.md",
+    "Agents/CIPHER-TRAINER.md",
+    "Agents/SHADOW-SIM.md",
+    "Agents/PHISHING-SIMULATOR.md",
+    "Agents/ECHO-OPS-TRAINER.md",
+    "Agents/IDENTITY-SIMULATOR.md",
+    "Agents/SIREN-TRAINER.md",
+    "Agents/PHANTOM-TRAINER.md",
+    "Agents/EXFILTRATOR.md",
+    "Agents/PRIVESC-LANCER.md",
+    "Agents/PAYLOAD-BUILDER.md",
+    "Agents/RECON-GHOST.md",
+    "Agents/ENGINEER-ONE.md",
+    "Agents/SPECTRE.md",
+    "Agents/VISOR.md",
+    "Agents/CYBEROPS-LEAD.md",
+    "Archive/logs/obsidian_sync.log",
+    "Archive/Archived Artifacts/2025-10-05",
+    "Archive/logs",
+    "Archive/Archived Artifacts",
     "Archive",
-    "Agents/AEGIS-OPS.md",
-    "Agents/AEGIS-SECURITY.md",
-    "Agents/AEGIS-PM.md",
-    "Agents/AEGIS-DOCS.md",
-    "Agents/AEGIS-DEV.md",
     "Agents",
     "Templates",
-    "Projects/MasterPromptGuide.md",
-    "Projects/InstallationGuide.md",
-    "Projects/AdminGuide.md",
     "Projects"
   ]
 }
