@@ -6,7 +6,7 @@
   "idField": "id",
   "useUID": false,
   "addFilepathWhenUsingUID": false,
-  "allowEval": false,
+  "allowEval": true,
   "includeVaultName": true,
   "vaultParam": "name",
   "linkFormats": [

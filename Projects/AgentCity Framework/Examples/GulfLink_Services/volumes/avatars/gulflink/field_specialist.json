@@ -1,0 +1,23 @@
+{
+  "avatar_id": "field_specialist",
+  "display_char": "🛥️",
+  "display_name": "Field Specialist",
+  "status_mappings": {
+    "INSPECTING": "🔎",
+    "READYING": "🛠️",
+    "ON_SITE": "📍",
+    "ESCALATED": "🚨",
+    "AT_BASE": "🏠"
+  },
+  "custom_properties": {
+    "department": "Field Ops",
+    "specialization": "Vendor Readiness",
+    "version": "1.0.0"
+  },
+  "animation_sequence": [
+    "🛥️",
+    "🔎",
+    "📍"
+  ],
+  "color_code": "#3BAFA3"
+}

@@ -1,0 +1,10 @@
+:root {
+  --bg-primary: #0A0F0D;
+  --bg-secondary: #1B3A2F;
+  --accent-primary: #3BAFA3;  /* coastal teal */
+  --accent-success: #4A8B6C;
+  --accent-data: #3A6B8F;
+  --accent-alert: #8B4545;
+  --accent-gold: #B8923D;
+  --text-neutral: #C8D4C0;
+}

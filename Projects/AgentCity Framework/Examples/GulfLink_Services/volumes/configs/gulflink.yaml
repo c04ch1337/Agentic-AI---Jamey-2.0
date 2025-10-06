@@ -1,0 +1,17 @@
+customer:
+  id: gulflink_services
+  name: GulfLink Services
+  industry: tourism_logistics
+  subscription_tier: standard
+board_settings:
+  refresh_rate: 5
+  retention_days: 30
+  max_agents: 50
+integrations:
+  webhook_url: null
+  api_keys: { }
+  data_export: true
+customization:
+  theme: coastal_ops
+  avatar_set: gulflink
+  custom_colors: null

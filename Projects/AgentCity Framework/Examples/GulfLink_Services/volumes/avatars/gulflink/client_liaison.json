@@ -1,0 +1,23 @@
+{
+  "avatar_id": "client_liaison",
+  "display_char": "🤝",
+  "display_name": "Client Liaison Officer",
+  "status_mappings": {
+    "CONFIRMING": "✅",
+    "SCHEDULING": "🗓️",
+    "ASSISTING": "🧭",
+    "ESCALATED": "🚨",
+    "AT_BASE": "🏠"
+  },
+  "custom_properties": {
+    "department": "CX",
+    "specialization": "Bookings & Support",
+    "version": "1.0.0"
+  },
+  "animation_sequence": [
+    "🤝",
+    "🧭",
+    "✅"
+  ],
+  "color_code": "#4A8B6C"
+}

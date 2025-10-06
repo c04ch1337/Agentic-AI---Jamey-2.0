@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agents/SIGMA-SYNC.md",
+                "file": "Templates/Agent_Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SIGMA-SYNC"
+              "title": "Agent_Template"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agents/SIGMA-SYNC.md",
+                "file": "Templates/Agent_Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SIGMA-SYNC"
+              "title": "Backlinks for Agent_Template"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agents/SIGMA-SYNC.md",
+                "file": "Templates/Agent_Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SIGMA-SYNC"
+              "title": "Outgoing links from Agent_Template"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agents/SIGMA-SYNC.md",
+                "file": "Templates/Agent_Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SIGMA-SYNC"
+              "title": "Outline of Agent_Template"
             }
           }
         ]
@@ -189,39 +189,41 @@
   },
   "active": "939831a0cf6608c6",
   "lastOpenFiles": [
-    "Agents/GRAMWIZ.md",
+    "Projects/AgentCity Framework/Examples/test.pl",
+    "Untitled.md",
+    "Templates/Agent_Template.md",
+    "Projects/AgentCity Framework/Examples/GulfLink_Services/README.md",
+    "Projects/AgentCity Framework/Examples/GulfLink_Services/Demo_Report.md",
+    "Projects/AgentCity Framework/Examples/GulfLink_Services/volumes/avatars/gulflink/field_specialist.json",
+    "Projects/AgentCity Framework/Examples/GulfLink_Services/volumes/avatars/gulflink/finance_quartermaster.json",
+    "Projects/AgentCity Framework/Examples/GulfLink_Services/volumes/avatars/gulflink/client_liaison.json",
+    "Projects/AgentCity Framework/Examples/GulfLink_Services/volumes/avatars/gulflink/logistics_commander.json",
+    "Projects/AgentCity Framework/Examples/GulfLink_Services/volumes/avatars/gulflink/operations_officer.json",
+    "Projects/AgentCity Framework/Examples/GulfLink_Services/volumes/avatars/gulflink",
+    "Projects/AgentCity Framework/Examples/GulfLink_Services/volumes/avatars",
+    "Projects/AgentCity Framework/Examples/GulfLink_Services/volumes/branding/gulflink/theme.css",
+    "Projects/AgentCity Framework/Examples/GulfLink_Services/volumes/branding/gulflink",
+    "Projects/AgentCity Framework/Examples/GulfLink_Services/volumes/branding",
+    "Archive/Archived Artifacts/2025-10-05/ARCHIVARIX-Test.md",
+    "Projects/MasterPromptGuide.md",
+    "Projects/InstallationGuide.md",
+    "Projects/AdminGuide.md",
+    "README.md",
+    "Welcome.md",
+    "Templates/Obsidian Advanced URI Guide.md",
     "Agents/SIGMA-SYNC.md",
-    "Agents/ECHO-ONE.md",
-    "Agents/LINKFORCE.md",
-    "Agents/REAPER.md",
-    "Agents/BLACKBIRD.md",
     "Agents/SHIELDWALL.md",
-    "Agents/ORACLE-ANALYTICS.md",
-    "Agents/GHOSTWIRE-SIM.md",
-    "Agents/PATCH-MASTER.md",
-    "Agents/VENOM-SIM.md",
-    "Agents/CIPHER-TRAINER.md",
-    "Agents/SHADOW-SIM.md",
-    "Agents/PHISHING-SIMULATOR.md",
-    "Agents/ECHO-OPS-TRAINER.md",
-    "Agents/IDENTITY-SIMULATOR.md",
-    "Agents/SIREN-TRAINER.md",
-    "Agents/PHANTOM-TRAINER.md",
-    "Agents/EXFILTRATOR.md",
-    "Agents/PRIVESC-LANCER.md",
-    "Agents/PAYLOAD-BUILDER.md",
-    "Agents/RECON-GHOST.md",
-    "Agents/ENGINEER-ONE.md",
-    "Agents/SPECTRE.md",
     "Agents/VISOR.md",
-    "Agents/CYBEROPS-LEAD.md",
-    "Archive/logs/obsidian_sync.log",
-    "Archive/Archived Artifacts/2025-10-05",
-    "Archive/logs",
-    "Archive/Archived Artifacts",
-    "Archive",
-    "Agents",
-    "Templates",
-    "Projects"
+    "Agents/VENOM-SIM.md",
+    "Agents/THE GENERAL.md",
+    "Agents/STRATCOM.md",
+    "Agents/SPECTRE.md",
+    "Agents/SIREN-TRAINER.md",
+    "Agents/SHADOW-SIM.md",
+    "Agents/RECON-GHOST.md",
+    "Agents/REAPER.md",
+    "Agents/PRIVESC-LANCER.md",
+    "Agents/PHISHING-SIMULATOR.md",
+    "Agents/PHANTOM-TRAINER.md"
   ]
 }

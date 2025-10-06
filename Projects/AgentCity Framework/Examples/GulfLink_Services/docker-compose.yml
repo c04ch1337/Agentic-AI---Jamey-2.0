@@ -1,0 +1,25 @@
+version: '3.8'
+services:
+  agentcity-board:
+    build: ../..
+    container_name: "agentcity_gulflink_services_operations"
+    environment:
+      - CUSTOMER_ID=gulflink_services
+      - DEPARTMENT=operations
+      - BOARD_THEME=coastal_ops
+      - AVATAR_SET=gulflink
+      - BRAND_THEME=gulflink
+    ports:
+      - "8090:8080"
+    volumes:
+      - ./volumes/avatars:/app/volumes/avatars
+      - ./volumes/environments:/app/volumes/environments
+      - ./volumes/configs:/app/volumes/configs
+      - ./volumes/branding:/app/volumes/branding
+      - ./customer_data/gulflink_services:/app/customer_data
+    networks:
+      - agentcity-network
+
+networks:
+  agentcity-network:
+    driver: bridge

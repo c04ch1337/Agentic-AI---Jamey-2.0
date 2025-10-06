@@ -1,0 +1,23 @@
+{
+  "avatar_id": "operations_officer",
+  "display_char": "⚓",
+  "display_name": "Operations Commander",
+  "status_mappings": {
+    "PLANNING": "🗺️",
+    "DEPLOYING": "🚤",
+    "MONITORING": "📡",
+    "COORDINATING": "📞",
+    "AT_BASE": "🏠"
+  },
+  "custom_properties": {
+    "department": "Operations",
+    "specialization": "Excursion Coordination",
+    "version": "1.0.0"
+  },
+  "animation_sequence": [
+    "⚓",
+    "📡",
+    "🚤"
+  ],
+  "color_code": "#4A8B6C"
+}

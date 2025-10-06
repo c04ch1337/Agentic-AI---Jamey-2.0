@@ -1,0 +1,35 @@
+environment_id: "coastal_ops"
+display_name: "Coastal Command Center"
+layout:
+  width: 24
+  height: 16
+  background: "🩵"
+  locations:
+    dispatch_bay:
+      name: "Dispatch Docks"
+      position: [2, 2]
+      size: [4, 4]
+      tiles: "🚤"
+    logistics_hub:
+      name: "Supply Depot"
+      position: [18, 2]
+      size: [4, 4]
+      tiles: "📦"
+    comms_center:
+      name: "Operations Comms"
+      position: [10, 7]
+      size: [5, 5]
+      tiles: "📡"
+    finance_office:
+      name: "Finance HQ"
+      position: [2, 10]
+      size: [4, 4]
+      tiles: "💰"
+    base_camp:
+      name: "Headquarters"
+      position: [18, 10]
+      size: [4, 4]
+      tiles: "🏠"
+custom_tiles:
+  "🛥️": "Active Excursion"
+  "🌅": "Tour Zone"

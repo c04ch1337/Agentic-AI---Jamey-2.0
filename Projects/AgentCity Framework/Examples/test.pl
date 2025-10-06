@@ -1,0 +1,1 @@
+obsidian://advanced-uri?vault=Agentic%20AI%20-%20Jamey%202.0&filepath=Projects/AgentCity%20Framework/Examples/GulfLink_Services/TEST.md&data=Hello%2520World&mode=new

@@ -1,0 +1,23 @@
+{
+  "avatar_id": "logistics_commander",
+  "display_char": "📦",
+  "display_name": "Logistics Quartermaster",
+  "status_mappings": {
+    "ALLOCATING": "⚙️",
+    "ROUTING": "🧭",
+    "TRANSIT": "🚚",
+    "ESCALATED": "🚨",
+    "AT_BASE": "🏠"
+  },
+  "custom_properties": {
+    "department": "Logistics",
+    "specialization": "Vendor & Transport",
+    "version": "1.0.0"
+  },
+  "animation_sequence": [
+    "📦",
+    "🧭",
+    "🚚"
+  ],
+  "color_code": "#3A6B8F"
+}

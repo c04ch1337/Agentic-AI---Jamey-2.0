@@ -1,0 +1,23 @@
+{
+  "avatar_id": "finance_quartermaster",
+  "display_char": "💰",
+  "display_name": "Finance & Compliance Officer",
+  "status_mappings": {
+    "RECONCILING": "📊",
+    "VERIFYING": "📋",
+    "APPROVING": "✅",
+    "ESCALATED": "🚨",
+    "AT_BASE": "🏠"
+  },
+  "custom_properties": {
+    "department": "Finance",
+    "specialization": "Payments & Compliance",
+    "version": "1.0.0"
+  },
+  "animation_sequence": [
+    "💰",
+    "📊",
+    "✅"
+  ],
+  "color_code": "#B8923D"
+}
